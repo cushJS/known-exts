@@ -1,0 +1,5 @@
+{
+  "name": "@cush/known-exts",
+  "version": "0.0.1",
+  "main": "exts.json"
+}
